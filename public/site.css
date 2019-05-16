@@ -1,0 +1,24 @@
+@media only screen and (max-width: 530px){
+    nav h2{
+        font-size: 1.1em;
+    }
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.infoContent{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer{
+    background: rgb(33, 37, 41, .5);
+    margin-top: 20px;
+}
+nav{
+    margin-bottom:20px;
+}
+form{
+    margin-bottom: 20px;
+}
